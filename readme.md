@@ -8,8 +8,9 @@ Use [Custom CSS and JS Loader](https://github.com/be5invis/vscode-custom-css) an
 
 Dank Mono patched with Nerd Fonts + Operator Mono set with Custom CSS and JS Loader is used in the example below.
 
+| ![Example Code](https://github.com/rubyjasmin/vscode-hyperterm-theme/raw/master/example.png) |
+| :--: |
 ![Theme Screenshot](https://github.com/rubyjasmin/vscode-hyperterm-theme/raw/master/screenshot.png)
-![Example Code](https://github.com/rubyjasmin/vscode-hyperterm-theme/raw/master/example.png)
 
 ## Theme installation
 
