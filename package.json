@@ -1,0 +1,32 @@
+{
+  "name": "hyperterm-theme",
+  "displayName": "HyperTerm Theme",
+  "description": "Dark Theme inspired by the simple beautiful design of Hyper Term and Dark++ Italic font ligatures.",
+  "version": "0.0.1",
+  "keywords": ["vscode", "dark", "theme", "hyper-term", "dark++", "italic"],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hyper Term Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/HyperTerm Theme-color-theme.json"
+      }
+    ]
+  },
+  "author": "Ruby Jasmin <rj@rubyjasmin.com> (https://rubyjasmin.com/)",
+  "publisher": "rubyjasmin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rubyjasmin/vscode-hyperterm-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rubyjasmin/vscode-hyperterm-theme.git/issues"
+  },
+  "homepage": "https://github.com/rubyjasmin/vscode-hyperterm-theme/blob/master/README.md"
+}
